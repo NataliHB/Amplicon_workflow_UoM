@@ -1,1 +1,1 @@
-# Amplicon_workflow_UoM
+# Amplicon workflow UoM
