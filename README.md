@@ -1,1 +1,3 @@
-# Amplicon workflow UoM
+# Amplicon data analysis workshop - UoM 
+
+
